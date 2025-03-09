@@ -8,7 +8,7 @@ Then you should be able to build and run the program.
 
 Created with the SDL2 bindings for Go here https://github.com/veandco/go-sdl2
 
-Simple 1 room dungeon with chests & random internal walls. Arrow/WASD move / Mouse to aim / Mouse Left Button to fire.
+Simple 1 room dungeon with chests & random internal walls. Arrows/WASD move / Mouse to aim / Mouse Left Button to fire.
 
 Press F1 key to open the debug menu / F2 key to create a new level.
 
